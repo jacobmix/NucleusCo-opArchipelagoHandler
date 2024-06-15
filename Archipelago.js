@@ -18,7 +18,7 @@ Game.DocumentsSavePathNoCopy = true;
 //Game.DocumentsConfigPath = "SavedGames\\Timespinner\\Timespinner\\AllPlayers\\Config.sav";
 //Game.DocumentsSavePath = "SavedGames\\Timespinner\\Timespinner\\AllPlayers\\TSSave.sav";
 //Game.UseGoldberg = true;
-Game.NeedsSteamEmulation = true;
+Game.NeedsSteamEmulation = true; // Enabled for Timespinner. Will have to figure out if something else will work or how to move the files from Archipelago folder somehow
 
 var AnswersTimespinnerCons = ["Yes", "No"];
 Game.AddOption(
