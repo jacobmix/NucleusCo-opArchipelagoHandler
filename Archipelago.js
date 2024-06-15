@@ -95,66 +95,66 @@ Game.AddOption(
 );
 
 Game.AddOption(
-  "Pick starting game",
-  "Timespinner or TsRandomizer",
-  "SelectPlayer8Game",
-  AnswersPlayerGame
+	"Pick starting game",
+	"Timespinner or TsRandomizer",
+	"SelectPlayer8Game",
+	AnswersPlayerGame
 );
 
 Game.AddOption(
-  "Pick starting game",
-  "Timespinner or TsRandomizer",
-  "SelectPlayer9Game",
-  AnswersPlayerGame
+	"Pick starting game",
+	"Timespinner or TsRandomizer",
+	"SelectPlayer9Game",
+	AnswersPlayerGame
 );
 
 Game.AddOption(
-  "Pick starting game",
-  "Timespinner or TsRandomizer",
-  "SelectPlayer10Game",
-  AnswersPlayerGame
+	"Pick starting game",
+	"Timespinner or TsRandomizer",
+	"SelectPlayer10Game",
+	AnswersPlayerGame
 );
 
 Game.AddOption(
-  "Pick starting game",
-  "Timespinner or TsRandomizer",
-  "SelectPlayer11Game",
-  AnswersPlayerGame
+	"Pick starting game",
+	"Timespinner or TsRandomizer",
+	"SelectPlayer11Game",
+	AnswersPlayerGame
 );
 
 Game.AddOption(
-  "Pick starting game",
-  "Timespinner or TsRandomizer",
-  "SelectPlayer12Game",
-  AnswersPlayerGame
+	"Pick starting game",
+	"Timespinner or TsRandomizer",
+	"SelectPlayer12Game",
+	AnswersPlayerGame
 );
 
 Game.AddOption(
-  "Pick starting game",
-  "Timespinner or TsRandomizer",
-  "SelectPlayer13Game",
-  AnswersPlayerGame
+	"Pick starting game",
+	"Timespinner or TsRandomizer",
+	"SelectPlayer13Game",
+	AnswersPlayerGame
 );
 
 Game.AddOption(
-  "Pick starting game",
-  "Timespinner or TsRandomizer",
-  "SelectPlayer14Game",
-  AnswersPlayerGame
+	"Pick starting game",
+	"Timespinner or TsRandomizer",
+	"SelectPlayer14Game",
+	AnswersPlayerGame
 );
 
 Game.AddOption(
-  "Pick starting game",
-  "Timespinner or TsRandomizer",
-  "SelectPlayer15Game",
-  AnswersPlayerGame
+	"Pick starting game",
+	"Timespinner or TsRandomizer",
+	"SelectPlayer15Game",
+	AnswersPlayerGame
 );
 
 Game.AddOption(
-  "Pick starting game",
-  "Timespinner or TsRandomizer",
-  "SelectPlayer16Game",
-  AnswersPlayerGame
+	"Pick starting game",
+	"Timespinner or TsRandomizer",
+	"SelectPlayer16Game",
+	AnswersPlayerGame
 );
 
 //Game.AddOption("Title", "Description", "Option Name" , [leave empty]);
