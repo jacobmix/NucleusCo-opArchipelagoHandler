@@ -202,8 +202,7 @@ Game.Play = function()
 		Game.ExecutableName = "TsRandomizer.exe";
 		Game.ExecutableToLaunch = "TsRandomizer.exe";
 	} else {
-		//Nothing else
-		console.error("Invalid game mode selected: " + GM);
+		//Not Timespinner or TsRandomizer
 	}
 	// variable that stores the per-player environemnt config path
 	var TimespinnerConfigPath = Context.DocumentsPlayer + Context.DocumentsConfigPath + "\\Timespinner\\AllPlayers";
