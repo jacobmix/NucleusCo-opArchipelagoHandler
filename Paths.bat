@@ -17,7 +17,7 @@ FOR /F "delims== tokens=1,* eol=#" %%i in (%filename%) do set %%i=%%~j
 
 ::ChecksFinder
 IF NOT "%ChecksFinderPath%" == "" (mklink "%ArchipelagoPath%\ChecksFinder" "%ChecksFinderPath%")
-:: mklink "C:\ProgramData\Archipelago\ChecksFinder" "C:\Users\JacobMIX\Videos\OBS\APSpectator-master\APGames\ChecksFinder"
+:: mklink "C:\ProgramData\Archipelago\ChecksFinder" "C:\Users\JacobMIX\Desktop\ChecksFinder"
 
 ::DarkSouls3
 IF NOT "%DS3Path%" == "" (mklink "%ArchipelagoPath%\DarkSoulsIII" "%DS3Path%")
