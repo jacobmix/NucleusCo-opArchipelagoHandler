@@ -191,6 +191,11 @@ Game.Play = function()
 		//System.IO.File.Symlink(Context.Options["C:\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\Game"].replace(/\\/g, '\\\\') + "\\DarkSoulsIII.exe", Context.EnvironmentPlayer +;
 		//Game.ExecutableName = "DarkSouls3.exe";
 		//Game.ExecutableToLaunch = "DarkSouls3.exe";
+
+		//Find a way to ask user for path once. Then add to Path.ini
+		//var DS3PathTxt = Context.FindLineNumberInTextFile(Game.Folder + "\\Paths.ini", "DS3Path=", Nucleus.SearchType.Contains);
+		//var ReplaceDS3PathTxt = [ DS3PathTxt + "|DS3Path=" + Context.Options["C:\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\Game"] ];
+		//Context.ReplaceLinesInTextFile(txtPath, dict);
 	}
 	// Select an option for Timespinner GameModes (Old stuff. Redo this)
 	var Player1GM = Context.Options["SelectPlayer1Game"];
